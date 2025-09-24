@@ -5,6 +5,15 @@ sudo apt install -y python3-gpiozero python3-pip
 sudo pip3 install keyboard
 
 
+sudo apt update
+sudo apt install -y python3 python3-pip python3-venv
+python3 --version
+
+sudo apt install -y python3-gpiozero
+
+sudo apt install -y python-is-python3
+
+
 script file
 
 
